@@ -2,7 +2,7 @@
 Cancer.java 
 Created by: Lucas Noritomi-Hartwig
 Created on: April 1, 2020
-Last edited on: April 2, 2020
+Last edited on: April 3, 2020
 This program finds the number of blobs of cancerous cells in the grid.
 Note: It uses the Flood Fill algorithm to determine this information.
 */
